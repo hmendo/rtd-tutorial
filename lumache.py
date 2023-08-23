@@ -1,3 +1,4 @@
+import numpy as np
 """
 Lumache - Python library for cooks and food lovers.
 """
